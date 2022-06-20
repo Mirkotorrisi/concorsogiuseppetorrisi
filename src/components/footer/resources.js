@@ -5,14 +5,14 @@ import youtube from "../../images/youtube.webp";
 export const socials = [
   {
     src: facebook,
-    href: "https://www.facebook.com/brisasonorascuoladimusica",
+    href: "https://www.facebook.com/ConcorsoDiChitarraClassicaGiuseppeTorrisi",
   },
   {
     src: instagram,
-    href: "https://www.instagram.com/brisasonora_corsidimusica/",
+    href: "https://www.instagram.com/giuseppetorrisiguitar/",
   },
   {
     src: youtube,
-    href: "https://www.youtube.com/channel/UCU_019OjoMwkLuTgLX9fRnQ/",
+    href: "https://www.youtube.com/c/GiuseppeTorrisi",
   },
 ];
