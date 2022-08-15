@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           <NavLink link="/">Regolamento</NavLink>
           <NavLink link="/biografia">Biografia</NavLink>
-          <NavLink link="/sponsor">Sponsor</NavLink>
+          <NavLink link="/#sponsor">Sponsor</NavLink>
         </div>
       </div>
     </nav>

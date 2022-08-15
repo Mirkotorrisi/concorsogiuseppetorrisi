@@ -59,14 +59,14 @@ const BioPage = () => {
             <img
               src={bio1}
               className="m-auto lg:m-0 lg:ml-10"
-              alt="giuseppe torrisi first picture"
+              alt="giuseppe torrisi"
             />
           </div>
           <div className="flex flex-col px-5 lg:flex-row justify-between">
             <img
               src={bio2}
               className="m-auto lg:m-0 lg:mr-10"
-              alt="giuseppe torrisi second picture"
+              alt="giuseppe torrisi"
             />
 
             <p className="py-5">
@@ -113,14 +113,14 @@ const BioPage = () => {
             <img
               src={bio3}
               className="m-auto lg:m-0  lg:ml-10"
-              alt="giuseppe torrisi third picture"
+              alt="giuseppe torrisi"
             />
           </div>
           <div className="flex flex-col px-5 lg:flex-row justify-between">
             <img
               src={bio4}
               className="m-auto lg:m-0 lg:mr-10"
-              alt="giuseppe torrisi fourth picture"
+              alt="giuseppe torrisi"
             />
             <p className="py-5">
               {" "}
