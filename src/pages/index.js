@@ -90,7 +90,11 @@ const IndexPage = () => {
               </div>
             </div>
           </div>
-          <img src={chitarra} alt="chitarra" className="chitarra" />
+          <img
+            src={chitarra}
+            alt="chitarra"
+            className="chitarra hidden lg:block"
+          />
         </div>
         <Footer />
       </main>
