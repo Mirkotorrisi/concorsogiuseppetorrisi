@@ -42,8 +42,8 @@ const IndexPage = () => {
               fiati,legni o strumenti a pizzico in qualsiasi formazione.
             </p>
             <p>
-              Si svolge a Catania dal 23 al 25 Settembre 2022 presso
-              l’Auditorium Sacro Cuore di via Milano - Catania.
+              Si svolge a Catania dal 25 al 27 Novembre 2022 presso l’Auditorium
+              Sacro Cuore di via Milano - Catania.
             </p>
             <div className="download_links mt-10">
               <h2 className="title mb-5">Scarica il regolamento:</h2>
