@@ -56,7 +56,7 @@ const IndexPage = () => {
               {/* <a href="../assets/eng_gtorrisi_rules.docx" download className="">
                 Rules in English word format
               </a> */}
-              <a href={engPdfModel} download className="">
+              <a href={engPdfRules} download className="">
                 Rules in English
               </a>
               {/* <a href="../assets/eng_gtorrisi_rules.docx" download className="">
