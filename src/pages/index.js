@@ -11,9 +11,10 @@ import itaPdfRules from "../assets/ita_gtorrisi_rules.pdf";
 import engPdfRules from "../assets/eng_gtorrisi_rules.pdf";
 import engPdfModel from "../assets/eng_gtorrisi_model.pdf";
 import itaPdfModel from "../assets/ita_gtorrisi_model.pdf";
+import dePdfModel from "../assets/de_gtorrisi_model.pdf";
+import dePdfRules from "../assets/de_gtorrisi_rules.pdf";
 
 const IndexPage = () => {
-  console.log("🚀 ~ file: index.js ~ line 9 ~ sponsors", sponsors);
   return (
     <NavProvider>
       <Helmet>
@@ -62,7 +63,7 @@ const IndexPage = () => {
               {/* <a href="../assets/eng_gtorrisi_rules.docx" download className="">
                 Verordnung im deutschen Wortformat
               </a> */}
-              <a href={engPdfModel} download className="">
+              <a href={dePdfRules} download className="">
                 Verordnung im deutschen
               </a>
             </div>
@@ -75,6 +76,9 @@ const IndexPage = () => {
               </a>
               <a href={engPdfModel} download className="">
                 English Application form
+              </a>
+              <a href={dePdfModel} download className="">
+                Bewerbungsformular in deutscher Sprache
               </a>
             </div>
             <div className="flex flex-col mt-20">
