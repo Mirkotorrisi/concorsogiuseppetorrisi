@@ -11,9 +11,7 @@ const Footer = () => (
         alt="concorso torrisi logo"
         className={"footer__section__logo"}
       />
-      <address className="mt-4">
-        Via Lipari 5 san Giovanni la Punta, Catania
-      </address>
+      <address className="mt-4">San Giovanni la Punta, Catania</address>
     </div>
     <div className="footer__section flex justify-between">
       {socials.map(({ src, href }, index) => (
