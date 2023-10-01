@@ -38,12 +38,13 @@ const IndexPage = () => {
         <div className="flex justify-between px-5 pb-10 lg:px-48">
           <div className="home__hero lg:w-2/3" id="hero-section">
             <p className="my-5 text-left">
-              Concorso musicale aperto ai Giovani Chitarristi, Ensemble di
-              Chitarre (dal duo in poi) e Musica da camera con chitarra, archi,
-              fiati,legni o strumenti a pizzico in qualsiasi formazione.
+              Seconda edizione del concorso musicale aperto ai Giovani
+              Chitarristi, Ensemble di Chitarre (dal duo in poi) e Musica da
+              camera con chitarra, archi, fiati,legni o strumenti a pizzico in
+              qualsiasi formazione.
             </p>
             <p>
-              Si svolge a Catania dal 25 al 27 Novembre 2022 presso l’Auditorium
+              Si svolge a Catania il 2 e il 3 Dicembre 2023 presso l’Auditorium
               Sacro Cuore di via Milano - Catania.
             </p>
             <div className="download_links mt-10">
