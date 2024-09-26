@@ -41,7 +41,7 @@ const IndexPage = () => {
               qualsiasi formazione.
             </p>
             <p>
-              Si svolge a Catania l'8 e il 9 Dicembre 2024 presso <a href="https://maps.app.goo.gl/GEauNDXJBoGTtHAa6" target="_blank">l’Auditorium Carlo Alberto Dalla Chiesa, Vico Mignemi, S. Gregorio (CT)</a>.
+              Si svolge a Catania l'8 e il 9 Novembre 2024 presso <a href="https://maps.app.goo.gl/GEauNDXJBoGTtHAa6" target="_blank">l’Auditorium Carlo Alberto Dalla Chiesa, Vico Mignemi, S. Gregorio (CT)</a>.
             </p>
             <div className="download_links mt-10">
               <h2 className="title mb-5">Scarica il regolamento:</h2>
